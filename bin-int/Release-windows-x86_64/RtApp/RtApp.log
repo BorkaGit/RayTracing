@@ -1,0 +1,9 @@
+﻿  Camera.cpp
+  RTApp.cpp
+D:\Repos\RayTracing\RtApp\src\RTApp.cpp(75,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Repos\RayTracing\RtApp\src\RTApp.cpp(98,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Repos\RayTracing\RtApp\src\RTApp.cpp(120,49): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Repos\RayTracing\RtApp\src\RTApp.cpp(121,50): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+  Renderer.cpp
+  Generating Code...
+  RtApp.vcxproj -> D:\Repos\RayTracing\bin\Release-windows-x86_64\RtApp\RtApp.exe
